@@ -2,6 +2,8 @@
 
 __A personal learning & experimentation repo for mastering GitHub Actions, Dockerized microservices, and automated deployments.__
 
+![](./pics/github-automate-cicd.png)
+
 This repository captures my notes, configurations, and hands-on experiments for **end-to-end CI/CD automation** using GitHub Actions.
 
 The final goal is: 
